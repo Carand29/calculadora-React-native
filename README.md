@@ -1,2 +1,2 @@
 # calculadora-React-native
-Proyecto Calculadora React Native, y expo
+Proyecto Calculadora React Native, y expo para visualizar
